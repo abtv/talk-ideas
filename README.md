@@ -5,9 +5,9 @@
 
 ## Технологии
 
-[Архитектура / Рыжиков](https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md)
+[Архитектура / Рыжиков Николай](https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md)
 
 
 ## Люди
 
-[Мотивация 3.0 / Пименов](https://github.com/abtv/talk-ideas/blob/master/ideas/motivation_pimenov.md)
+[Мотивация 3.0 / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/motivation_pimenov.md)
