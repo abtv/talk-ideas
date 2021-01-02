@@ -14,6 +14,6 @@
 
 ## Люди
 
-[🏃‍ Мотивация 3.0 / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/motivation_pimenov.md)
+[🏃‍Мотивация 3.0 / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/motivation_pimenov.md)
 
-[🧘‍ Управленческая нирвана (уровни менеджера и команды) / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/management_nirvana_pimenov.md)
+[🧘‍Управленческая нирвана (уровни менеджера и команды) / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/management_nirvana_pimenov.md)
