@@ -7,13 +7,13 @@
 
 ## Технологии
 
-[Архитектура / Рыжиков Николай](https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md)
+[🏢 Архитектура / Рыжиков Николай](https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md)
 
-[Ментальное программирование / Мокевнин Кирилл](https://github.com/abtv/talk-ideas/blob/master/ideas/mental_programming_mokevnin.md)
+[👥 Ментальное программирование / Мокевнин Кирилл](https://github.com/abtv/talk-ideas/blob/master/ideas/mental_programming_mokevnin.md)
 
 
 ## Люди
 
-[Мотивация 3.0 / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/motivation_pimenov.md)
+[🏃‍ Мотивация 3.0 / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/motivation_pimenov.md)
 
-[Управленческая нирвана (уровни менеджера и команды) / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/management_nirvana_pimenov.md)
+[🧘‍ Управленческая нирвана (уровни менеджера и команды) / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/management_nirvana_pimenov.md)
