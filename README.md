@@ -1,11 +1,13 @@
 # talk-ideas
 
-Этот репозиторий содержит идеи из докладов.
+Этот репозиторий содержит идеи из докладов, которые я считаю полезными для программистов.
 
 
 ## Технологии
 
 [Архитектура / Рыжиков Николай](https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md)
+
+[Ментальное программирование / Мокевнин Кирилл](https://github.com/abtv/talk-ideas/blob/master/ideas/mental_programming_mokevnin.md)
 
 
 ## Люди
