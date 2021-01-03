@@ -11,6 +11,8 @@
 
 [👥 Ментальное программирование / Мокевнин Кирилл](https://github.com/abtv/talk-ideas/blob/master/ideas/mental_programming_mokevnin.md)
 
+[👥 Ментальное программирование 2.0 / Мокевнин Кирилл](https://github.com/abtv/talk-ideas/blob/master/ideas/mental_programming_2_0_mokevnin.md)
+
 
 ## Люди
 
