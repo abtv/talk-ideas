@@ -19,3 +19,5 @@
 [🏃‍Мотивация 3.0 / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/motivation_pimenov.md)
 
 [🧘‍Управленческая нирвана (уровни менеджера и команды) / Пименов Алексей](https://github.com/abtv/talk-ideas/blob/master/ideas/management_nirvana_pimenov.md)
+
+[🤵‍Все, что начинающий тимлид должен знать о найме и увольнении / Овчинников Степан](https://github.com/abtv/talk-ideas/blob/master/ideas/hire_fire_abc_ovchinnikov.org)
