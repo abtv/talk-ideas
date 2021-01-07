@@ -7,11 +7,13 @@
 
 ## Технологии
 
-[🏢 Архитектура / Рыжиков Николай](https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md)
-
 [👥 Ментальное программирование / Мокевнин Кирилл](https://github.com/abtv/talk-ideas/blob/master/ideas/mental_programming_mokevnin.md)
 
 [👥 Ментальное программирование 2.0 / Мокевнин Кирилл](https://github.com/abtv/talk-ideas/blob/master/ideas/mental_programming_2_0_mokevnin.md)
+
+[⚙️ Модель принятия инженерных решений / Кривошеев Евгений](https://github.com/abtv/talk-ideas/blob/master/ideas/engineering_decisions_krivosheev.org)
+
+[🏢 Архитектура / Рыжиков Николай](https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md)
 
 
 ## Люди
