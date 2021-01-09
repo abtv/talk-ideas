@@ -16,7 +16,7 @@
 
 [[https://github.com/abtv/talk-ideas/blob/master/ideas/engineering_decisions_krivosheev.org][⚙️ Модель принятия инженерных решений / Кривошеев Евгений]]
 
-[[https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md][🏢 Архитектура / Рыжиков Николай]]
+[[https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md][🏢 Архитектура (Use Case Driven Development) / Рыжиков Николай]]
 
 
 ** Люди
