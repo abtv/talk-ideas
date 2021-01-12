@@ -18,7 +18,7 @@
 
 [[https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_as_a_function_of_krivosheev.org][📈 Архитектура как функция от? Или как недостаток здравого смысла убивает архитектуру / Кривошеев Евгений]]
 
-[[https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.md][🏢 Архитектура (Use Case Driven Development) / Рыжиков Николай]]
+[[https://github.com/abtv/talk-ideas/blob/master/ideas/architecture_ryzhikov.org][🏢 Архитектура (Use Case Driven Development) / Рыжиков Николай]]
 
 
 ** Люди
