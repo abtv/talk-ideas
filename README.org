@@ -27,4 +27,6 @@
 
 [[https://github.com/abtv/talk-ideas/blob/master/ideas/management_nirvana_pimenov.org][🧘‍Управленческая нирвана (уровни менеджера и команды) / Пименов Алексей]]
 
+[[https://github.com/abtv/talk-ideas/blob/master/ideas/hexlet_interview_pimenov.org][👨 Хекслет: интервью Кирилла Мокевнина с Пименовым Алексеем]]
+
 [[https://github.com/abtv/talk-ideas/blob/master/ideas/hire_fire_abc_ovchinnikov.org][🤵‍Все, что начинающий тимлид должен знать о найме и увольнении / Овчинников Степан]]
